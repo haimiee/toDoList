@@ -27,7 +27,7 @@ cd toDoList
  pip install -r requirements.txt
  ```
 3. **Configure environment variables**: Create a `.env` file in the root directory and add your database credentials. Example:
-```bash
+```
 db_host=...
 db_name=...
 db_username=...
@@ -68,7 +68,7 @@ The `toggle` operation marks tasks as completed (`✅`) or incomplete (`❌`). T
 }
 ```
 ** Output to the console:
-```bash
+```
 Welcome to your To Do List program! :D
 You have added the following tasks to the list:
  - wake up

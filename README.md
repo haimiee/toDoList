@@ -1,7 +1,8 @@
 # To-Do List App
 
 ## Overview
-This is a serverless To-Do List application using AWS Lambda and PostgreSQL. It allows users to:
+This is a personal project that started off as practice for object oriented programming using classes.
+It then transformed into a serverless To-Do List application using AWS Lambda and PostgreSQL. It allows users to:
 - View tasks
 - Add tasks
 - Remove tasks

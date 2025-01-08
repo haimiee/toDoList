@@ -58,8 +58,8 @@ if __name__ == "__main__":
     event = {}  
     event['body'] = """
     {
-        "operation": "add",
-        "arguments": ["wake up", "brush teeth", "meditate"]
+        "operation": "view",
+        "arguments": ["7", "8", "9"]
     }
     """
     print(lambda_handler(event, None)['body'])
